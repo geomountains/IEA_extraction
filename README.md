@@ -1,6 +1,6 @@
 ### Extract texts from the [International Environmental Agreements (IEA) Database](https://iea.uoregon.edu/)
 
-James M. Thornton, Mountains Research Initiative
+James M. Thornton, Mountain Research Initiative
 25/07/2023
 
 Prerequisites: lynx
