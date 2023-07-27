@@ -3,8 +3,7 @@
 James M. Thornton, Mountain Research Initiative
 25/07/2023
 
-Prerequisites: lynx
-			   perl
+Prerequisites: lynx, perl
 
 Steps:
 
